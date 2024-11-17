@@ -1,3 +1,5 @@
+https://img.shields.io/github/downloads/kizox26/Webhook-Nuker/total
+
 # 📗 __Webhook Nuker V.1.0.0__
 
 
